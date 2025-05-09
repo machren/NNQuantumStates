@@ -38,3 +38,9 @@ To install dependencies:
 pip install numpy matplotlib pandas
 pip install git+https://github.com/tenpy/tenpy.git
 pip install netket
+
+___
+
+## Usage
+
+To re-run QIC_TFI_NNQSvsDMRG.ipynb, make sure all related scripts and data files are in the same folder. 
